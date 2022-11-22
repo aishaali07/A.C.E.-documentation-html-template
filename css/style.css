@@ -19,27 +19,26 @@
 ------------------------------------------------------- */
 body {
     background: #fff;
-    color: #777777;
-    font-size: 14px;
+    color: #b80016;
+    font-size: 30px;
     line-height: 31px;
     letter-spacing: 0;
     font-weight: 400;
     padding: 0;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1,YOU 
+h2,ARE
+h3,THE 
+h4,FUTURE
+ {
     letter-spacing: 0px;
     font-weight: normal;
     position: relative;
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: 1.8;
-    color: #242424;
+    color: #fa9e00;
 }
 
 h1 {
@@ -72,7 +71,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    text-decoration: none !important;
+    text-decoration: underline;
 }
 
 p {
@@ -89,7 +88,7 @@ img.aligncenter {
     display: block;
     margin: 0 auto 20px auto;
     padding: 0px;
-    border: 0px;
+    border: 2px;
     background: none;
 }
 
@@ -107,7 +106,7 @@ img.alignleft {
     margin: 6px 20px 6px 0;
     display: inline;
     border: 0px;
-    background: none;
+    background: 870312;
     padding: 0;
     display: block;
 }
